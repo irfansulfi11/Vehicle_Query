@@ -43,7 +43,7 @@ werkzeug
 
 Clone the Repository:
 ```
-git clone https://github.com/your-username/traffic-management-system.git
+git clone https://github.com/irfansulfi11/traffic-management-system.git
 cd traffic-management-system
 ```
 Set Up a Virtual Environment (optional but recommended):
